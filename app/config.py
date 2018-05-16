@@ -2,7 +2,7 @@
 import os
 
 # Title of the site
-SITE_TITLE = 'Kayla Devops Meetup Flask App'
+SITE_TITLE = 'Kayla DevOpsKC Meetup Flask App'
 # The URL for static files/images
 STATIC_URL = 'https://s3-us-west-2.amazonaws.com/flaskdockerlab-static/'
 # The name of the
